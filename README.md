@@ -2,6 +2,8 @@
 <h3 align="center">A Passionate Front-End Developer from Indonesia</h3>
 
 
+## 📊 My Github Statistics
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasnfa&show_icons=true&locale=en&layout=compact" alt="dimasnfa" /></p>
 
