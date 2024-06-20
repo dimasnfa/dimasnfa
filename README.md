@@ -17,7 +17,7 @@
 #### 1. Magang PKL di PT.Galva Kami Industry  | Tegal `2020`
    - Mendaaptkan tempat di Ruangan Engineering
    - Kemudian di pindahkan ke Tempat Produksi
-#### 2. Magang Studi Independen di Orbit Future Academy [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student  | Tegal `2024`
+#### 2. Magang Studi Independen di Orbit Future Academy  Student  | Tegal `2024`
    - Mencari Dataset untuk digunakan pada Project Akhir
    - Membuat UI Desain Website
    - Membuat tampilan website (Front-End)
