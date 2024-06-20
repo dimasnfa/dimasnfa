@@ -1,6 +1,6 @@
 # Hi there, I'm Dimas - aka [Dimas Nur Fauzi Antoro](https://www.youtube.com/channel/UCqJtRYk-jfmRN1dZfOaFnxA) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
+- 🔭I am currently studying Informatics Engineering
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
