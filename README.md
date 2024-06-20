@@ -1,47 +1,55 @@
-Hi there, I'm Dimas - aka [Dimas Nur Fauzi Antoro](https://www.youtube.com/channel/UCqJtRYk-jfmRN1dZfOaFnxA) 👋
+# Hi there, I'm Dimas - aka [Dimas Nur Fauzi Antoro](https://www.youtube.com/channel/UCqJtRYk-jfmRN1dZfOaFnxA) 👋
+## About me:
+- 🔭I am currently studying Informatics Engineering
+- 🌱 I’m currently learning Python and Javascript
+- 👯 I’m looking to collaborate as Data Automation and Analyst
+- 🤔 I’m looking for suggest for Rust Project Ideas
+- 💬 Ask me about anything
+- 📫 How to reach me: dimasnfa1804@gmail.com
+
+## Education:
+
+#### 1. [Politeknik Harapan Bersama](https://poltekharber.ac.id/)) | TEKNIK INFORMATIKA | Tegal `2021-2025`
+ #### 2. [SMK Bhakti Praja Dukuhwaru](https://smkbpdkw.sch.id/) | TKJ (Teknik Komputer & Jaringan) | Tegal `2018-2021`
+  
+
+## Work Experience:
+#### 1. Magang PKL di PT.Galva Kami Industry  | Tegal `2020`
+   - Mendaaptkan tempat di Ruangan Engineering
+   - Kemudian di pindahkan ke Tempat Produksi
+#### 2. Magang Studi Independen di Orbit Future Academy [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student  | Tegal `2024`
+   - Mencari Dataset untuk digunakan pada Project Akhir
+   - Membuat UI Desain Website
+   - Membuat tampilan website (Front-End)
+---
+
+### Languages and Tools:
+
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
-## 📊 My Github Statistics
 
-<a href="">
-<img alt="Idhamm15's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<!-- <a href="https://github.com/Idhamm15">
-<img alt="Idhamm15's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a> -->
-
-## 🚀 Languages and Tools:
-
-<a href="https://github.com/Idhamm15">
-<img alt="Idhamm15's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhamm15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-
-#### **follow me**
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mohamad-idham-bahri-679201222/)
-
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/idham_tamvanz123)
-
-  [my website profile]()
-</p>
-
-<!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://instagram.com/idham_tamvanz123)
-[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_2_hbbgwm.svg"/>](https://www.facebook.com/)
-[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_3_lovdgp.svg"/>](https://www.github.com/Idhamm15) -->
-
-<!-- **Idhamm15/Idhamm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+[webdev]: https://github.com/vincentwidyan/vincentwidyan
