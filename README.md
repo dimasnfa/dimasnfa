@@ -47,8 +47,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dmsnfaaaaaa_?igsh=OWtnaW85Znl4bmE2#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dmsnfaaaaaa_?igsh=OWtnaW85Znl4bmE2#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dmsnfaaaaaa_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dmsnfaaaaaa_#gh-dark-mode-only)
 
 
 
