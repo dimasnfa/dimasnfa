@@ -41,15 +41,10 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/dimas-nur-fauzi-antoro#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/dimas-nur-fauzi-antoro#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dmsnfaaaaaa_?igsh=MWZwaGEyNXFsNXgycw==#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dmsnfaaaaaa_?igsh=MWZwaGEyNXFsNXgycw==#gh-dark-mode-only)
 
+<!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/dmsnfaaaaaa___/)
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_2_hbbgwm.svg"/>](https://www.facebook.com/)
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_3_lovdgp.svg"/>](https://github.com/dimasnfa) 
 
 
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
