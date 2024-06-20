@@ -1,10 +1,9 @@
-### Mohamad Idham Bahri-@Idhamm15
-<!-- Hi there 👋 -->
+Hi there, I'm Dimas - aka [Dimas Nur Fauzi Antoro](https://www.youtube.com/channel/UCqJtRYk-jfmRN1dZfOaFnxA) 👋
 
 
 ## 📊 My Github Statistics
 
-<a href="https://github.com/Idhamm15">
+<a href="">
 <img alt="Idhamm15's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhamm15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
